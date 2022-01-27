@@ -1,5 +1,5 @@
 # Maven output directory
-/target/
+# /target/
 
 # JVM crash logs
 hs_err_pid*
